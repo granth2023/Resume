@@ -1,0 +1,26 @@
+{
+    "name": "Grant Harris",
+    "website": "https://granth2023.github.io/",
+    "linkedin": "https://www.linkedin.com/in/tomatohammado/",
+    "github": "granth2023",
+    "email": "grantharris38@gmail.com",
+    "resume": "https://granth2023.github.io/assets/Grant-Harris.pdf",
+    "proficientTechnologies": [
+        "Javascript",
+        "React",
+        "Vue",
+        "Node",
+        "Express",
+        "Mongodb",
+        "PostgreSQL",
+        "Python",
+        "Django",
+        "Wordpress",
+        "Drupal"
+    ],
+    "otherSkills": [
+        "Screenwriting",
+        "Long-Form-Improv",
+        "Motion-Picture-Editing"
+    ]
+}
